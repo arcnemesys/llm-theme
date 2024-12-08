@@ -1,0 +1,7 @@
+id = "llm-theme"
+name = "llm theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["Orchid <arcnemesys@proton.me>"]
+description = "An extension to generate themes on the fly."
+repository = "https://github.com/arcnemesys/llm-theme"
